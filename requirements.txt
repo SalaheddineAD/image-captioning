@@ -8,5 +8,6 @@ seaborn
 dill
 dataclasses
 flask
+requests
 # this -e is used to create the modul
 -e .

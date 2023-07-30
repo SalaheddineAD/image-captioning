@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+ipykernel
+pip
+seaborn
+dill
+dataclasses
+flask

@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+ipykernel
+# api4ai
+pip
+seaborn
+dill
+dataclasses
+flask
+# this -e is used to create the modul
+-e .

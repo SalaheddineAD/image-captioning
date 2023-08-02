@@ -9,5 +9,6 @@ dill
 dataclasses
 flask
 requests
+openai
 # this -e is used to create the modul
 -e .

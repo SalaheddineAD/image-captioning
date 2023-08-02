@@ -8,3 +8,4 @@ dill
 dataclasses
 flask
 requests
+openai
